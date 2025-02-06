@@ -1,4 +1,4 @@
-# policy_radar
+# Policy Radar
 
 The Policy Radar's primary goal is to proactively engage with policymakers and shape future legislation, fostering a deeper understanding of the policy landscape and enabling members to participate effectively in policy development.Benefits
 Knowledge Building: Members will be informed about upcoming laws and potential engagement opportunities, leading to improved laws, better green software adoption outcomes, and enhanced public discourse understanding.
