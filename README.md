@@ -9,3 +9,6 @@ Scope and Focus
 The Policy Radar primarily focuses on future legislation and policy development, rather than providing guidance on complying with existing laws. This proactive approach aims to benefit all members by fostering a shared understanding of the policy landscape and facilitating collaborative engagement opportunities.Rationale
 
 Providing comprehensive guidance on existing laws for all members with diverse contexts would be a considerable undertaking for the GSF. Many GSF members already offer services related to existing law implementation. By contrast, the Policy Radar's focus on future legislation offers benefits to all members, enabling them to make informed decisions about engagement and collaboration within the evolving policy landscape.
+
+
+[Miroboard - Brainstorming](https://miro.com/app/board/uXjVLYKR20M=/)
